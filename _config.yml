@@ -1,6 +1,6 @@
 title: Debuman Pegi
 author: Debuman
-email: narita_jin@yahoo.co.jp
+email: ICMProtocol@proton.me
 description: > # this means to ignore newlines until "show_exerpts:"
         살려주세요
 show_excerpts: true # set to true to show excerpts on the homepage
@@ -29,7 +29,7 @@ plainwhite:
   # generate social links in footer
   social_links:
     #twitter: samarsault
-    github:  saladball
+    github:  Debu0man
     #linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
@@ -40,7 +40,7 @@ plainwhite:
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
-    email: narita_jin@yahoo.co.jp
+    email: ICMProtocol@proton.me
 
     # Mastodon instances
     # mastodon:
