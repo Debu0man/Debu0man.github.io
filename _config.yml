@@ -56,6 +56,7 @@ header_pages:
 
 # Build settings
 theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
