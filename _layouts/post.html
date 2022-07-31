@@ -19,6 +19,18 @@ layout: default
   <div class="post">
     {{ content }}
   </div>
+  <div class="col-lg-8 col-md-10 mx-auto">
+    <script src="https://utteranc.es/client.js"
+       repo="saladball/saladball.github.io"
+       issue-term="pathname"
+       label="comment"
+       theme="photon-dark"
+       crossorigin="anonymous"
+       async>
+    </script>
+  </div>
+
+
   {%- if site.plainwhite.disqus_shortname -%}
   <div id="disqus_thread" style="margin-top:25px"></div>
   <script>
