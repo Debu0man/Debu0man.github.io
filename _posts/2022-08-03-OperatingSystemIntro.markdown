@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “Overview of the operating system”
-date: 2022-08-03 22:22:00 +0530
+date: 2022-08-02 22:22:00 +0530
 categories: OperatingSystem OS
 ---
 
