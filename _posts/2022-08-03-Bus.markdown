@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “type of bus”
-date: 2022-08-04 22:30:00 +0530
+date: 2022-08-04 23:30:00 +0530
 categories: Bus
 ---
 
